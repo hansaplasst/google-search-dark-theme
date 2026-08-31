@@ -13,7 +13,7 @@ A lightweight [Tampermonkey](https://www.tampermonkey.net/)/[Greasemonkey](https
    - [Tampermonkey](https://www.tampermonkey.net/) or 
    - [Greasemonkey](https://www.greasespot.net/)
 
-2. Goto [userscript]([raw/refs/heads/main/google-search-dark-theme-user.js))
+2. Goto [userscript]([raw/refs/heads/main/google-search-dark-theme-user.js)
 
 3. Install the script.
 
