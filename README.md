@@ -9,16 +9,9 @@ A lightweight [Tampermonkey](https://www.tampermonkey.net/)/[Greasemonkey](https
 
 ## Installation
 
-[![Install from GitHub](https://img.shields.io/badge/Install%20from-GitHub-181717?logo=github&logoColor=white)](https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js)
+Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
 
-1. Install a userscript manager:
-   - [Tampermonkey](https://www.tampermonkey.net/) or 
-   - [Greasemonkey](https://www.greasespot.net/)
+[![Install from Greasy Fork](https://img.shields.io/badge/Install%20from-Greasy%20Fork-670000?logo=greasyfork&logoColor=white)](https://greasyfork.org/en/scripts/570302-google-search-dark-theme/code.user.js)
 
-2. Goto [userscript](https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js)
-
-3. Install the script.
-
-4. Open or refresh a Google Search page.
-
+Then open or refresh a Google Search page.
 The dark theme should be enabled automatically when the relevant Google interface becomes available.
