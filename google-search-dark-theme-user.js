@@ -8,8 +8,8 @@
 // @icon         https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico
 // @grant        none
 // @license      GPL3
-// @downloadURL https://update.greasyfork.org/scripts/570302/Google%20Search%20Dark%20Theme.user.js
-// @updateURL https://update.greasyfork.org/scripts/570302/Google%20Search%20Dark%20Theme.meta.js
+// @downloadURL  https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js
+// @updateURL    https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js
 // ==/UserScript==
 
 (function() {
