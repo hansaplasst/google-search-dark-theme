@@ -6,10 +6,10 @@
 // @author       Hansaplast
 // @include      https://www.google.*/*
 // @icon         https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico
-// @grant        none
 // @license      GPL3
 // @downloadURL  https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js
 // @updateURL    https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js
+// @grant        none
 // ==/UserScript==
 
 (function() {
