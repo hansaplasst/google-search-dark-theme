@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Search Dark Theme
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Auto Enable Google Search Dark Theme
 // @author       Hansaplast
 // @include      https://www.google.*/*
