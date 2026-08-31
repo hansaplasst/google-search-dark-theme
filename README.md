@@ -8,7 +8,7 @@ A lightweight [Tampermonkey](https://www.tampermonkey.net/)/[Greasemonkey](https
 - Runs on Google search pages
 
 ## Installation
-[![Install directly with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-00485B?logo=tampermonkey&logoColor=white)](https://github.com/hansaplasst/google-search-dark-theme/raw/refs/heads/main/google-search-dark-theme-user.js)
+[![Install directly with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-00485B?logo=tampermonkey&logoColor=white)](https://greasyfork.org/en/scripts/570302-google-search-dark-theme/code.user.js)
 
 1. Install a userscript manager:
    - [Tampermonkey](https://www.tampermonkey.net/) or 
